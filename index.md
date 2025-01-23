@@ -3,14 +3,11 @@ layout: homepage
 ---
 
 ## Short Bio
-Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [WuHan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [WuHan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao).
+Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [WuHan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [WuHan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao). My research interest includes Embodied Intelligence (3D reconstruction, teleoperation, 3D Simulation, etc.) and Medical Image Analysis.
 
-If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
+Currently, I'm a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/).
 
-
-## Research Interests
-- **Embodied Intelligence**: 3D reconstruction, teleoperation, 3D Simulation  
-- **Medical Image Analysis**: image segmentation, image reconstruction  
+<span style="color: red;">I'm looking for PhD positions (Fall 2026).</span> If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
 
 ## News
