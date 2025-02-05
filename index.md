@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Short Bio
-Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [WuHan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [WuHan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao). My research interest includes Embodied Intelligence (3D reconstruction, teleoperation, 3D Simulation, etc.) and Medical Image Analysis. Currently, I'm a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/).
+Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [Wuhan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao). My research interest includes Embodied Intelligence (3D reconstruction, teleoperation, 3D Simulation, etc.) and Medical Image Analysis. Currently, I'm a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/).
 
 <span style="color: red;">I'm looking for PhD positions (Fall 2026).</span> If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
@@ -25,19 +25,12 @@ Haoyu Zhao currently is a 2th-year Master student in School of Computer Science 
 
 ## Selected Awards and Honors
 - **[2024.11]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
-    (武汉大学甲等奖学金)  
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
-    (武汉大学优秀毕业生)     
 - **[2020-2023]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
-    (武汉大学甲等奖学金)   
 - **[2022.10]** The Tianyuan Dico Scholarship   
-    (天源迪科奖学金)     
 - **[2022.10]** Chinese Collegiate Internet of Things Design Competition First Prize   
-    (全国大学生物联网设计竞赛全国一等奖)   
 - **[2022.7]** Chinese Collegiate Computing Competition Third Prize   
-    (全国计算机设计大赛全国三等奖)   
-- **[2021.11]** Citi Cup Third Prize   
-    (花旗杯全国三等奖)   
+- **[2021.11]** Citi Cup Third Prize  
 
 
 
