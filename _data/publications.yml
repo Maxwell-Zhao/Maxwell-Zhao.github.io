@@ -1,6 +1,20 @@
 main:
+  - title: "SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control"
+    authors: "<strong>Haoyu Zhao</strong>, Sixu Lin, Qingwei Ben, Minyue Dai, Hao Fei, Jiangmiao Pang, Jingbo Wang, Junting Dong, Hua Zou"
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2411.12789
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    notes: 
+    
   - title: "Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2411.12789
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    notes: 
+    
+  - title: "Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation"
+    authors: "Minyue Dai, Jingbo Wang, Ke Fan, Bin Ji, <strong>Haoyu Zhao</strong>, Junting Dong, Bo Dai"
     conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/pdf/2411.12789
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
