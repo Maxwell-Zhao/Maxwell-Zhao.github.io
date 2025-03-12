@@ -16,7 +16,7 @@ main:
   - title: "Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation"
     authors: "Minyue Dai, Jingbo Wang, Ke Fan, Bin Ji, <strong>Haoyu Zhao</strong>, Junting Dong, Bo Dai"
     conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2411.12789
+    pdf: https://arxiv.org/pdf/2503.08180
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
@@ -45,7 +45,7 @@ main:
   - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
     authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
     conference: International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
-    pdf:
+    pdf: https://arxiv.org/abs/2503.06056
     code:
     notes:
 
