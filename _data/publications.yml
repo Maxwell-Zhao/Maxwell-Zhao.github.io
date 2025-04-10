@@ -6,7 +6,7 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
     
-  - title: "Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting"
+  - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
     conference: arXiv preprint, 2025.
     pdf: https://arxiv.org/pdf/2411.12789
