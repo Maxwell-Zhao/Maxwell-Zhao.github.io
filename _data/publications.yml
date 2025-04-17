@@ -20,7 +20,6 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
-
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
     conference: arXiv preprint, 2024.
@@ -34,13 +33,6 @@ main:
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
     notes:
-
-  - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
-    authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2409.04356
-    code: 
-    notes: 
   
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu(*equal contribution)"
