@@ -15,7 +15,7 @@ Haoyu Zhao currently is a 2th-year Master student in School of Computer Science 
 {% include_relative _includes/publications.md %}
 
 ## Academic Service
-- Reviewer for CVPR (2025), ICCV (2025), MICCAI (2025), PRCV (2024)
+- Reviewer for CVPR (2025), ICCV (2025), MICCAI (2025), ECAI (2025), PRCV (2024)
 
 ## Experiences
 - **[2024.11 - Present]** Research Intern, [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/)
