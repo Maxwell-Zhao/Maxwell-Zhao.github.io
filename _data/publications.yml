@@ -6,12 +6,6 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
     
-  - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
-    authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2411.12789
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
-    notes: 
     
   - title: "Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation"
     authors: "Minyue Dai, Jingbo Wang, Ke Fan, Bin Ji, <strong>Haoyu Zhao</strong>, Junting Dong, Bo Dai"
@@ -20,16 +14,23 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
+  - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
+    authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.12789
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    notes: 
+
   - title: "SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Chen Yang, Hao Wang, Xingyue Zhao, Wei Shen"
-    conference: arXiv preprint, 2024.
+    conference: European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.09665
     code: https://github.com/zhaohaoyu376/sggs
     notes: 
 
   - title: "CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Chen Yang, Wei Shen"
-    conference: arXiv preprint, 2024.
+    conference: European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
     notes:
