@@ -34,9 +34,17 @@ main:
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
     notes:
+
+  - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
+    authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
+    conference: IEEE Transactions on Medical Image <strong>(TMI)</strong>.
+    pdf: https://arxiv.org/abs/2409.04356
+    code:
+    notes:
+    
   
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
-    authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu(*equal contribution)"
+    authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.17872
     code: https://github.com/zhaohaoyu376/HFGS
