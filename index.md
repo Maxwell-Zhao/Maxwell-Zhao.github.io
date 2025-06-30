@@ -3,15 +3,18 @@ layout: homepage
 ---
 
 ## Short Bio
-Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [Wuhan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao). My research interest includes Embodied Intelligence (3D reconstruction, teleoperation, 3D Simulation, etc.) and Medical Image Analysis. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
+Haoyu Zhao currently is a 2th-year Master student in School of Computer Science at [Wuhan University](https://www.whu.edu.cn/), advised by Prof. [Hua Zou](https://scholar.google.com/citations?user=6JMV8NEAAAAJ&hl=zh-CN&oi=ao), Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao), and Prof. [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN&oi=ao). He received his B.S. degrees (Software Engineering) from [Wuhan University](https://www.whu.edu.cn/) in 2023, advised by Prof. [Yongchao Xu](https://scholar.google.com/citations?user=ArIg7-0AAAAJ&hl=zh-CN&oi=ao). If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
+## Research
+In particular, on topics:
+- embodied intelligence (3D reconstruction, 3D Simulation, etc.)
+- artificial intelligence for medical image.
 
 ## News
-- **[2025.7]** Two paper was accepted to ECAI 2025.
-- **[2025.6]** Two paper were accepted to ICCV 2025/TMI.
-- **[2024.12]** One paper was accepted to ICASSP 2025.
-- **[2024.6]** Three papers were accepted to MICCAI 2024/BMVC 2024.
-
+- **[2025.7]** <font color="red">2</font> paper was accepted to ECAI 2025. Congrats to all co-authors!
+- **[2025.6]** <font color="red">2</font> paper were accepted to ICCV 2025/TMI. Congrats to all co-authors!
+- **[2024.12]** <font color="red">1</font> paper was accepted to ICASSP 2025. Congrats to all co-authors!
+- **[2024.6]** <font color="red">3</font> papers were accepted to MICCAI 2024/BMVC 2024. Congrats to all co-authors!
 
 {% include_relative _includes/publications.md %}
 
