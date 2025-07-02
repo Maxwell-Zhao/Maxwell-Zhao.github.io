@@ -5,14 +5,6 @@ main:
     pdf: https://arxiv.org/pdf/2411.12789
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
-    
-    
-  - title: "Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation"
-    authors: "Minyue Dai, Jingbo Wang, Ke Fan, Bin Ji, <strong>Haoyu Zhao</strong>, Junting Dong, Bo Dai"
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2503.08180
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
-    notes: 
 
   - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
@@ -41,8 +33,14 @@ main:
     pdf: https://arxiv.org/abs/2409.04356
     code:
     notes:
+
+    - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
+    authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890868
+    code: https://github.com/zhaohaoyu376/WI-LD2ND
+    notes: Oral
     
-  
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
