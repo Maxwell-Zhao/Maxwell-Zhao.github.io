@@ -34,8 +34,6 @@ main:
     code:
     notes:
 
-
-    
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
     conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
