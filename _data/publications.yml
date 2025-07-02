@@ -34,19 +34,7 @@ main:
     code:
     notes:
 
-    - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
-    authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
-    conference: IEEE Transactions on Medical Image <strong>(TMI)</strong>.
-    pdf: https://arxiv.org/abs/2409.04356
-    code:
-    notes:
 
-    - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
-    authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890868
-    code: https://github.com/zhaohaoyu376/WI-LD2ND
-    notes: Oral
     
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
     authors: "<strong>Haoyu Zhao</strong>, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu"
@@ -54,6 +42,13 @@ main:
     pdf: https://arxiv.org/pdf/2405.17872
     code: https://github.com/zhaohaoyu376/HFGS
     notes:
+
+  - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
+    authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890868
+    code: https://github.com/zhaohaoyu376/WI-LD2ND
+    notes: Oral
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
     authors: "<strong>Haoyu Zhao</strong>, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
