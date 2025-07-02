@@ -34,6 +34,13 @@ main:
     code:
     notes:
 
+    - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
+    authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
+    conference: IEEE Transactions on Medical Image <strong>(TMI)</strong>.
+    pdf: https://arxiv.org/abs/2409.04356
+    code:
+    notes:
+
     - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
     authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
