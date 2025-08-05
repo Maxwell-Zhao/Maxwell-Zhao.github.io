@@ -1,4 +1,11 @@
 main:
+  - title: "Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors"
+    authors: "<strong>Haoyu Zhao</strong>, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiaan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou"
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2411.12789
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    notes: 
+    
   - title: "SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control"
     authors: "<strong>Haoyu Zhao</strong>, Sixu Lin, Qingwei Ben, Minyue Dai, Hao Fei, Jiangmiao Pang, Jingbo Wang, Junting Dong, Hua Zou"
     conference: arXiv preprint, 2025.
