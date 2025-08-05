@@ -21,9 +21,10 @@ I currently am a 2th-year Master student in School of Computer Science at [Wuhan
 - Reviewer for CVPR (2025), ICCV (2025), MICCAI (2025), ECAI (2025), PRCV (2024)
 
 ## Experiences
-- **[2025.5 - Present]** Research Intern, [Alibaba DAMO Academy]([https://www.shlab.org.cn/](https://damo.alibaba.com/?language=zh)), supervised by [Xin Li]([https://jtdong.com/](https://lixin4ever.github.io/))
+- **[2025.8 - Present]** Remote Research Intern, [CUHK](https://www.cuhk.edu.hk/chinese/), supervised by [Zhongyu Li](https://zyliatzju.github.io/)
+- **[2025.5 - Present]** Research Intern, [Alibaba DAMO Academy](https://damo.alibaba.com/?language=zh), supervised by [Xin Li](https://lixin4ever.github.io/)
 - **[2024.11 - 2025.5]** Research Intern, [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/)
-- **[2024.6 - 2024.9]** Research Intern, [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
+- **[2024.6 - 2024.9]** Research Intern, [SJTU](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
 
 ## Selected Awards and Honors
 - **[2024.11]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
