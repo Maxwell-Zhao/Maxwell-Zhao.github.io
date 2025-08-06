@@ -18,7 +18,7 @@ I currently am a 2th-year Master student in School of Computer Science at [Wuhan
 {% include_relative _includes/publications.md %}
 
 ## Academic Service
-- Reviewer for CVPR (2025), ICCV (2025), MICCAI (2025), ECAI (2025), PRCV (2024)
+- Reviewer for CVPR (2025), ICCV (2025), AAAI (2026), MICCAI (2025), ECAI (2025), PRCV (2024)
 
 ## Experiences
 - **[2025.8 - Present]** Remote Research Intern, [CUHK](https://www.cuhk.edu.hk/chinese/), supervised by [Zhongyu Li](https://zyliatzju.github.io/)
