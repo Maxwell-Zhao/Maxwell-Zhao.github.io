@@ -30,9 +30,6 @@ I currently am a 2th-year Master student in School of Computer Science at [Wuhan
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
 - **[2020-2025]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
 - **[2022.10]** The Tianyuan Dico Scholarship   
-- **[2022.10]** Chinese Collegiate Internet of Things Design Competition First Prize   
-- **[2022.7]** Chinese Collegiate Computing Competition Third Prize   
-- **[2021.11]** Citi Cup Third Prize  
 
 
 
