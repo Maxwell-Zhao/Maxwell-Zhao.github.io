@@ -26,10 +26,9 @@ I currently am a 2th-year Master student in School of Computer Science at [Wuhan
 - **[2024.11 - 2025.5]** Research Intern, [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/)
 - **[2024.6 - 2024.9]** Research Intern, [SJTU](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
 
-## Selected Awards and Honors
-- **[2024.11]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
+## Selected Awards and Honors  
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
-- **[2020-2023]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
+- **[2020-2025]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
 - **[2022.10]** The Tianyuan Dico Scholarship   
 - **[2022.10]** Chinese Collegiate Internet of Things Design Competition First Prize   
 - **[2022.7]** Chinese Collegiate Computing Competition Third Prize   
