@@ -22,6 +22,7 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 
 ## Experiences
 - **[2025.8 - Present]** Remote Research Intern, [CUHK](https://www.cuhk.edu.hk/chinese/), supervised by [Zhongyu Li](https://zyliatzju.github.io/)
+- **[2025.7 - 2025.10]** Remote Research Intern, [NUS](https://nus.edu.sg/), supervised by [Hao Fei](https://scholar.google.com/citations?user=YGDX46AAAAAJ&hl=zh-CN)
 - **[2025.5 - Present]** Research Intern, [Alibaba DAMO Academy](https://damo.alibaba.com/?language=zh), supervised by [Xin Li](https://lixin4ever.github.io/)
 - **[2024.11 - 2025.5]** Research Intern, [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Junting Dong](https://jtdong.com/)
 - **[2024.6 - 2024.9]** Research Intern, [SJTU](https://www.sjtu.edu.cn/), supervised by [Wei Shen](https://scholar.google.com/citations?user=Ae2kRCEAAAAJ&hl=zh-CN)
