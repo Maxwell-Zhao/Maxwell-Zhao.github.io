@@ -16,7 +16,7 @@ main:
   - title: "SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control"
     authors: "<strong>Haoyu Zhao</strong>, Sixu Lin, Qingwei Ben, Minyue Dai, Hao Fei, Jiangmiao Pang, Jingbo Wang, Junting Dong, Hua Zou"
     conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2411.12789
+    pdf: https://arxiv.org/pdf/2505.19463
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
