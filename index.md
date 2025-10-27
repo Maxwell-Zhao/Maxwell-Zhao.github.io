@@ -29,7 +29,8 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 ## Academic Service
 - Reviewer for CVPR (2025), ICCV (2025), AAAI (2026), MICCAI (2025), ECAI (2025), PRCV (2024)
 
-## Selected Awards and Honors  
+## Selected Awards and Honors
+- **[2025.10]** The Didi Scholarship
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
 - **[2020-2025]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
 - **[2022.10]** The Tianyuan Dico Scholarship   
