@@ -21,11 +21,11 @@ main:
     notes: 
 
   - title: "Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting"
-      authors: "Hao Wang, Ying Zhou, <strong>Haoyu Zhao</strong>, Rui Wang, Qiang Hu, Xing Zhang, Qiang Li, Zhiwei Wang"
-      conference: arXiv preprint, 2025.
-      pdf: https://arxiv.org/pdf/2510.18739
-      code:
-      notes: 
+    authors: "Hao Wang, Ying Zhou, <strong>Haoyu Zhao</strong>, Rui Wang, Qiang Hu, Xing Zhang, Qiang Li, Zhiwei Wang"
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2510.18739
+    code:
+    notes: 
 
   - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
