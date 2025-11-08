@@ -30,15 +30,15 @@ main:
   - title: "Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype Alignment for Federated Medical Segmentations"
     authors: "Xingyue Zhao, Wenke Huang, Xingguang Wang, <strong>Haoyu Zhao</strong>, Linghao Zhuang, Anwen Jiang, Guancheng Wan, Mang Ye"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
-    pdf: 
-    code: 
+    pdf: https://arxiv.org/pdf/2508.08896
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
   - title: "Orthogonal Spatial-temporal Distributional Transfer for 4D Generation"
     authors: "Wei Liu, Shengqiong Wu, Bobo Li, <strong>Haoyu Zhao</strong>, Hao Fei, Mong-Li Lee, Wynne Hsu"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
-    pdf:
-    code:
+    pdf: https://arxiv.org/pdf/2508.08896
+    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
     
   - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
