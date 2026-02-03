@@ -13,13 +13,6 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
-  - title: "Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting"
-    authors: "Hao Wang, Ying Zhou, <strong>Haoyu Zhao</strong>, Rui Wang, Qiang Hu, Xing Zhang, Qiang Li, Zhiwei Wang"
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/pdf/2510.18739
-    code:
-    notes: 
-
   - title: "Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors"
     authors: "<strong>Haoyu Zhao</strong>, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiaan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
@@ -75,13 +68,6 @@ main:
     pdf: https://arxiv.org/pdf/2405.17872
     code: https://github.com/zhaohaoyu376/HFGS
     notes:
-
-  - title: "Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification"
-    authors: "Weixi Zheng, Aoling Huang, Jingping Yuan, <strong>Haoyu Zhao</strong>, Zhou Zhao, Yongchao Xu, Thierry Géraud"
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890868
-    code: https://github.com/zhaohaoyu376/WI-LD2ND
-    notes: Oral
 
   - title: "MoreStyle: Relax Low-frequency Constraint of Fourier-based Image Reconstruction in Generalizable Medical Image Segmentation"
     authors: "<strong>Haoyu Zhao</strong>, Wenhui Dong, Rui Yu, Zhou Zhao, Bo Du, Yongchao Xu"
