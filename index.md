@@ -16,7 +16,7 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 - **[2025.11]** <font color="red">3</font> papers were accepted to AAAI 2026. Congrats to all co-authors!
 - **[2025.7]** <font color="red">2</font> papers were accepted to ECAI 2025. Congrats to all co-authors!
 - **[2025.6]** <font color="red">2</font> papers were accepted to ICCV 2025/TMI. Congrats to all co-authors!
-- **[2024.12]** <font color="red">1</font> paper was accepted to ICASSP 2025 (<font color="red">oral</font>). Congrats to all co-authors!
+- **[2024.12]** <font color="red">1</font> paper was accepted to ICASSP 2025. Congrats to all co-authors!
 - **[2024.6]** <font color="red">3</font> papers were accepted to MICCAI 2024/BMVC 2024. Congrats to all co-authors!
 
 {% include_relative _includes/publications.md %}
