@@ -1,11 +1,4 @@
 main:
-  - title: "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
-    authors: "<strong>Haoyu Zhao</strong>, Cheng Zeng, Linghao Zhuang, Yaxi Zhao, Shengke Xue, Hao Wang, Xingyue Zhao, Zhongyu Li, Kehan Li, Siteng Huang, Mingxiu Chen, Xin Li, Deli Zhao, Hua Zou"
-    conference: arXiv preprint, 2025.
-    pdf: https://arxiv.org/abs/2510.10637
-    code: https://github.com/Maxwell-Zhao/RoboSimGS
-    notes: 
-    
   - title: "SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control"
     authors: "<strong>Haoyu Zhao</strong>, Sixu Lin, Qingwei Ben, Minyue Dai, Hao Fei, Jiangmiao Pang, Jingbo Wang, Junting Dong, Hua Zou"
     conference: arXiv preprint, 2025.
@@ -13,6 +6,13 @@ main:
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
 
+  - title: "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
+    authors: "<strong>Haoyu Zhao</strong>, Cheng Zeng, Linghao Zhuang, Yaxi Zhao, Shengke Xue, Hao Wang, Xingyue Zhao, Zhongyu Li, Kehan Li, Siteng Huang, Mingxiu Chen, Xin Li, Deli Zhao, Hua Zou"
+    conference: IEEE Robotics and Automation Letters.
+    pdf: https://arxiv.org/abs/2510.10637
+    code: https://github.com/Maxwell-Zhao/RoboSimGS
+    notes: 
+    
   - title: "Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors"
     authors: "<strong>Haoyu Zhao</strong>, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiaan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
