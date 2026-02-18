@@ -11,6 +11,7 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 - Artificial Intelligence for Medical Image.
 
 ## News
+- **[2026.2]** <font color="red">1</font> paper was accepted to RA-L. Congrats to all co-authors!
 - **[2026.1]** Honored to receive the **2025 Outstanding Academic Cooperation Intern** award from **Alibaba DAMO Academy**.
 - **[2025.12]** <font color="red">2</font> paper were accepted to Scientific Data/ICASSP 2026. Congrats to all co-authors!
 - **[2025.11]** <font color="red">3</font> papers were accepted to AAAI 2026. Congrats to all co-authors!
