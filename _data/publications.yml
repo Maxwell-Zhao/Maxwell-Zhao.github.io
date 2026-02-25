@@ -19,20 +19,6 @@ main:
     pdf: https://arxiv.org/pdf/2508.08896
     code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
     notes: 
-
-  - title: "Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype Alignment for Federated Medical Segmentations"
-    authors: "Xingyue Zhao, Wenke Huang, Xingguang Wang, <strong>Haoyu Zhao</strong>, Linghao Zhuang, Anwen Jiang, Guancheng Wan, Mang Ye"
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
-    pdf: https://arxiv.org/pdf/2508.08896
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
-    notes: 
-
-  - title: "Orthogonal Spatial-temporal Distributional Transfer for 4D Generation"
-    authors: "Wei Liu, Shengqiong Wu, Bobo Li, <strong>Haoyu Zhao</strong>, Hao Fei, Mong-Li Lee, Wynne Hsu"
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
-    pdf: https://arxiv.org/pdf/2508.08896
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
-    notes: 
     
   - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
     authors: "<strong>Haoyu Zhao</strong>, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou"
@@ -53,13 +39,6 @@ main:
     conference: European Conference on Artificial Intelligence <strong>(ECAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2408.09663
     code: https://github.com/zhaohaoyu376/chase
-    notes:
-
-  - title: "Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model"
-    authors: "Hongqiu Wang, Yixian Chen, Wu Chen, Huihui Xu, <strong>Haoyu Zhao</strong>, Bin Sheng, Huazhu Fu, Guang Yang, Lei Zhu"
-    conference: IEEE Transactions on Medical Image <strong>(TMI)</strong>.
-    pdf: https://arxiv.org/abs/2409.04356
-    code:
     notes:
 
   - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
