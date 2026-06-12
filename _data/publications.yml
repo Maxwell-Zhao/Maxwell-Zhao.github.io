@@ -3,7 +3,14 @@ main:
     authors: "<strong>Haoyu Zhao</strong>, Sixu Lin, Qingwei Ben, Minyue Dai, Hao Fei, Jiangmiao Pang, Jingbo Wang, Junting Dong, Hua Zou"
     conference: arXiv preprint, 2025.
     pdf: https://arxiv.org/pdf/2505.19463
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    code: 
+    notes: 
+
+  - title: "Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints"
+    authors: "Lijun Guo*, <strong>Haoyu Zhao*</strong>, Xingyue Zhao, Rong Fu, Linghao Zhuang, Siteng Huang, Zhongyu Li, Hua Zou"
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2603.11606
+    code: https://github.com/ShawnRicardo/Articulat3D
     notes: 
 
   - title: "High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting"
@@ -17,7 +24,7 @@ main:
     authors: "<strong>Haoyu Zhao</strong>, Linghao Zhuang, Xingyue Zhao, Cheng Zeng, Haoran Xu, Yuming Jiang, Jun Cen, Kexiang Wang, Jiaan Guo, Siteng Huang, Xin Li, Deli Zhao, Hua Zou"
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2508.08896
-    code: https://github.com/Maxwell-Zhao/sim-anything/tree/main
+    code: https://github.com/Maxwell-Zhao/AffordDex
     notes: 
     
   - title: "Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting"
