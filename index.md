@@ -35,7 +35,7 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 - Reviewer for CVPR, ICCV, ECCV, CoRL AAAI, MICCAI, ECAI, PRCV
 
 ## Selected Awards and Honors
-- **[2026.1]** 2025 Outstanding Academic Cooperation Intern (awarded by DAMO Academy and Hupan Lab)
+- **[2026.1]** 2025 Outstanding Academic Cooperation Intern (awarded by DAMO Academy)
 - **[2025.10]** The Didi Scholarship
 - **[2023.6]** Outstanding Undergraduate of Wuhan University (<span style="color: red;">Top 15%</span> in Wuhan University)   
 - **[2020-2025]** Wuhan University First-class Scholarship (<span style="color: red;">Top 5%</span> in Wuhan University)   
