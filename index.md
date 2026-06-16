@@ -12,7 +12,7 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 
 ## News
 - **[2026.6]** <font color="red">1</font> paper was accepted to ECCV 2026. Congrats to all co-authors!
-- **[2026.3]** <font color="red">2</font> paper were accepted to ICME 2026. Congrats to all co-authors!
+- **[2026.3]** <font color="red">2</font> paper (one <font color="red">**Oral**</font>) were accepted to ICME 2026. Congrats to all co-authors!
 - **[2026.2]** <font color="red">1</font> paper was accepted to RA-L. Congrats to all co-authors!
 - **[2026.1]** Honored to receive the **2025 Outstanding Academic Cooperation Intern** award from **Alibaba DAMO Academy**.
 - **[2025.12]** <font color="red">2</font> paper were accepted to Scientific Data/ICASSP 2026. Congrats to all co-authors!
