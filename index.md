@@ -11,6 +11,8 @@ I currently am a 3th-year Master student in School of Computer Science at [Wuhan
 - Artificial Intelligence for Medical Image.
 
 ## News
+- **[2026.7]** Honored to be invited by [Chenran Li](https://scholar.google.com/citations?user=O_PbKNMAAAAJ&hl=zh-CN) to give a talk at **NVIDIA**.
+- **[2026.7]** We released **RynnWorld-4D** (a unified 4D embodied world model for closed-loop action planning) and **RynnWorld-Teleop** (an action-conditioned simulator for high-fidelity, scalable Sim2Real data generation). Check out our [Project Page](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io/) and [Project Page](https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io/) for more details!
 - **[2026.6]** <font color="red">2</font> paper were accepted to ECCV 2026/IROS 2026. Congrats to all co-authors!
 - **[2026.3]** <font color="red">2</font> paper (one <font color="red">Oral</font>) were accepted to ICME 2026. Congrats to all co-authors!
 - **[2026.2]** <font color="red">1</font> paper was accepted to RA-L. Congrats to all co-authors!
