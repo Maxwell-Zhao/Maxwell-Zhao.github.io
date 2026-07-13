@@ -545,4 +545,109 @@ ul.xp-list { list-style: none; margin: 12px 0; padding-left: 0; }
   .xp-time { margin-left: auto; }
 }
 
+/* News list styling to match mayuelala */
+#layout-content ul li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+/* Experience table with aligned logos */
+#tbExperience {
+  border: none;
+  border-collapse: collapse;
+}
+
+#tbExperience td {
+  vertical-align: middle;
+  padding: 4px 8px;
+}
+
+#tbExperience img {
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  #tbExperience td {
+    display: block;
+    width: 100% !important;
+    text-align: center !important;
+    padding: 4px 0;
+  }
+  #tbExperience td:first-child {
+    margin-bottom: 4px;
+  }
+  #tbExperience td p {
+    text-align: center;
+  }
+}
+
+/* Responsive header for mobile */
+@media (max-width: 768px) {
+  body {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 15px;
+  }
+
+  #header_container {
+    height: auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  #headshot {
+    float: none;
+    margin: 0 auto 15px;
+    width: 160px;
+  }
+
+  #headshot img {
+    width: 160px;
+    height: 160px;
+  }
+
+  #main_info_container {
+    margin-left: 0;
+    width: 100%;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  #main_info_container h1 {
+    width: auto !important;
+    font-size: 1.8em;
+    margin-bottom: 8px;
+  }
+
+  .pages_post_descr {
+    width: 100%;
+  }
+
+  .pages_post_descr_main p {
+    margin: 6px 0;
+  }
+
+  /* GitHub corner slightly smaller on mobile */
+  .github-corner svg {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  #headshot {
+    width: 130px;
+  }
+
+  #headshot img {
+    width: 130px;
+    height: 130px;
+  }
+
+  #main_info_container h1 {
+    font-size: 1.5em;
+  }
+}
+
 
