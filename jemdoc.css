@@ -545,6 +545,36 @@ ul.xp-list { list-style: none; margin: 12px 0; padding-left: 0; }
   .xp-time { margin-left: auto; }
 }
 
+/* QR code badges in header */
+.qr-codes {
+  display: flex;
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.qr-item {
+  text-align: center;
+}
+
+.qr-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.qr-item span {
+  font-size: 11px;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .qr-codes {
+    justify-content: center;
+  }
+}
+
 /* News list styling to match mayuelala */
 #layout-content ul li {
   margin-bottom: 6px;
