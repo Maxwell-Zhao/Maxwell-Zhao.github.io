@@ -34,7 +34,8 @@
                 <a href="https://github.com/Maxwell-Zhao" target="_blank" rel="noopener">GitHub</a> |
                 <a href="./assets/files/cv.pdf" target="_blank" rel="noopener">CV</a> |
                 <a href="https://orcid.org/0009-0009-8274-2262" target="_blank" rel="noopener">ORCID</a> |
-                <a href="https://www.xiaohongshu.com/user/profile/61489e32000000000201eda3" target="_blank" rel="noopener">Xiaohongshu</a> |
+                <a href="javascript:void(0)" onclick="openQR('xiaohongshu')" rel="noopener">Xiaohongshu</a> |
+                <a href="javascript:void(0)" onclick="openQR('wechat')" rel="noopener">WeChat</a> |
                 <a href="https://space.bilibili.com/287106019" target="_blank" rel="noopener">Bilibili</a>
               </p>
 
@@ -45,16 +46,6 @@
               <p>
                 Email: haoyu.zhao (at) whu.edu.cn
               </p>
-              <div class="qr-codes">
-                <div class="qr-item">
-                  <img src="./assets/img/xiaohongshu-qr.jpg" alt="Xiaohongshu QR">
-                  <span>Xiaohongshu</span>
-                </div>
-                <div class="qr-item">
-                  <img src="./assets/img/wechat-qr.jpg" alt="WeChat QR">
-                  <span>WeChat</span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -230,5 +221,38 @@
 
 </div>
 </div>
+
+<!-- QR Code Modal -->
+<div id="qrModal" class="qr-modal" onclick="closeQR(event)">
+  <div class="qr-modal-content" onclick="event.stopPropagation()">
+    <span class="qr-modal-close" onclick="closeQR()">&times;</span>
+    <img id="qrModalImg" src="" alt="QR Code">
+    <p id="qrModalCaption"></p>
+  </div>
+</div>
+
+<script>
+function openQR(type) {
+  var img = document.getElementById('qrModalImg');
+  var caption = document.getElementById('qrModalCaption');
+  var modal = document.getElementById('qrModal');
+  if (type === 'xiaohongshu') {
+    img.src = './assets/img/xiaohongshu-qr.jpg';
+    caption.textContent = 'Xiaohongshu';
+  } else if (type === 'wechat') {
+    img.src = './assets/img/wechat-qr.jpg';
+    caption.textContent = 'WeChat';
+  }
+  modal.style.display = 'flex';
+}
+
+function closeQR(e) {
+  if (e && e.target !== document.getElementById('qrModal') && e.target.className !== 'qr-modal-close') {
+    return;
+  }
+  document.getElementById('qrModal').style.display = 'none';
+}
+</script>
+
 </body>
 </html>
